@@ -1,7 +1,7 @@
-# cnBeta-scrapy
+# Web-scrapy
 
 This project is a web scraper designed to collect data from the Science category of cnbeta.com.tw.
-  Or 
+\n Or 
 It can be modified to handld all static html
 
 To install required library:
