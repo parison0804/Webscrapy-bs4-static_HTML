@@ -1,7 +1,12 @@
 # cnBeta-scrapy
 
-This is a WebScrapy toward https://www.cnbeta.com.tw/ under the science category
+This project is a web scraper designed to collect data from the Science category of cnbeta.com.tw.
 
-Using beautifulsoup for scrapying static html
+Technologies Used:
 
-Data is saved in a dic format on local PC dektop 
+BeautifulSoup: For parsing and extracting data from static HTML pages.
+Python: Backend scripting and data handling.
+Data Storage:
+
+Extracted data is saved in dictionary format on the local desktop.
+Feel free to explore and contribute! 🚀
